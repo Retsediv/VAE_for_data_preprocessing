@@ -1,6 +1,6 @@
 # Data preprocessing by using VariationalAutoEncoders (VAE)
 
 Topics to explore:
-- Data augmentation (for UJIPEN dataset)
+- Data augmentation (for MNIST dataset)
 - Image segmentation
 - Data transformation (noise reduction)
