@@ -3,4 +3,3 @@
 Topics to explore:
 - Data augmentation (for MNIST dataset)
 - Data transformation (noise reduction)
-- Image segmentation
