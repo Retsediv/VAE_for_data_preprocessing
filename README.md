@@ -2,5 +2,5 @@
 
 Topics to explore:
 - Data augmentation (for MNIST dataset)
-- Image segmentation
 - Data transformation (noise reduction)
+- Image segmentation
